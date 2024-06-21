@@ -1,6 +1,6 @@
 - 👋 Hi, I’m swati
-- 👀 I’m interested in full stack web developmentand AI
-- 🌱 I’m currently learning Python & ML
+- 👀 I’m interested in full stack web development and AI
+- 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on internative python projects
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: sam
