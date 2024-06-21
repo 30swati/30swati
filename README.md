@@ -1,20 +1,21 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg)]
+![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm Swati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1718582400&semt=ais_user">
+<img align="right" alt="coding" width="350" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1718582400&semt=ais_user">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=30swati&label=Profile%20views&color=0e75b6&style=flat" alt="30swati" /> </p>
 
 - 🌱 I’m currently learning **Java**
+- 🌱 I'm interested in **Full Stack Web Development**   
 
-- 💬 Ask me about **c++, html, css, js.**
+- 💬 Ask me about **c++, html, css, js**
 
 - ⚡ Fun fact **I think I am good at Sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/swati-m-96093b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/swati-m-96093b248" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@swatimaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swatimaurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swati-m-96093b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/swati-m-96093b248" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@Swatimaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@swatimaurya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swati_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swati_2004" height="30" width="40" /></a>
 </p>
 
