@@ -4,7 +4,7 @@
 <h3 align="center">🌟 A passionate Frontend Developer from India 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+Learner;Skilled+in+HTML%2C+CSS%2C+JS%2C+MySQL;Exploring+Data+Analysis+%7C+Open+to+Internships!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%7C+React+Learner;Skilled+in+HTML%2C+CSS%2C+JS%2C+MySQL;Open+to+Internships!" alt="Typing SVG" />
 </p>
 
 ---
