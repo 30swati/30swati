@@ -13,7 +13,6 @@
 - 🎓 BCA Graduate passionate about building beautiful and responsive websites  
 - 🔭 Currently working on a **Several projects** and building projects in **React**  
 - 🌱 Actively learning **Backend skills** and improving **frontend skills**
-- 💬 Ask me about **GSAP animations** and how to make your UI pop!
 - ✍️ I also enjoy **sketching** in my free time
 
 ---
